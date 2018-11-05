@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: ch.qos.logback:logback-classic:1.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-trade-sdk-20161215-source.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952-source.jar!/com/alipay/api" />
+      <root url="jar://$USER_HOME$/.m2/repository/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/alipay-sdk-java20161213173952-source.jar!/com/alipay/api" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
